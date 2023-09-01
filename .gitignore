@@ -26,6 +26,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-mdp.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
+mdp.txt
